@@ -1,0 +1,17 @@
+{"free":"2338 MB","total":"8067 MB","percent":"28%"}
+{"free":"2323 MB","total":"8067 MB","percent":"28%"}
+{"free":"2367 MB","total":"8067 MB","percent":"29%"}
+{"free":"2379 MB","total":"8067 MB","percent":"29%"}
+{"free":"2373 MB","total":"8067 MB","percent":"29%"}
+{"free":"2383 MB","total":"8067 MB","percent":"29%"}
+{"free":"2381 MB","total":"8067 MB","percent":"29%"}
+{"free":"2383 MB","total":"8067 MB","percent":"29%"}
+{"free":"2374 MB","total":"8067 MB","percent":"29%"}
+{"free":"2376 MB","total":"8067 MB","percent":"29%"}
+{"free":"2378 MB","total":"8067 MB","percent":"29%"}
+{"free":"2381 MB","total":"8067 MB","percent":"29%"}
+{"free":"2389 MB","total":"8067 MB","percent":"29%"}
+{"free":"2382 MB","total":"8067 MB","percent":"29%"}
+{"free":"2388 MB","total":"8067 MB","percent":"29%"}
+{"free":"2384 MB","total":"8067 MB","percent":"29%"}
+{"free":"2381 MB","total":"8067 MB","percent":"29%"}
